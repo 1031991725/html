@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.h1{
+	text-align: center;
+	width: 100%;
+	margin-left: 10px;
+}
+.h2{
+	background: #FF7F50;
+	border-radius: 10%;
+	border: 1px solid red;
+	width: 31%;
+	float: left;
+	margin: 10px;
+	height: 220px;
+	line-height: 220px;
+}
