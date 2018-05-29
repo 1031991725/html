@@ -1,0 +1,71 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	font-size: 62.5% ;
+	background: #eff0f4;
+}
+.header{
+    height: 6rem;
+    width: 100%;
+    background-color: #5fc0cd;
+    text-align: center;
+    line-height: 6rem;
+    font-size: 1.5rem;
+    color: #fff;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+	overflow: hidden;
+
+}
+.per{
+	height: 6rem;
+}
+.left{
+	float: left;
+	margin-left: 1%;
+}
+.right{
+	float: right;
+	margin-right:1%;
+}
+.input-1{
+	margin-top: 1rem;
+	background: #ffffff;
+	height: 4rem;
+}
+.input-1 input{
+	width: 70%;
+	line-height: 3rem;
+	position: relative;
+	bottom: 1rem;
+	border: 0;
+	font-size: 1rem;
+	margin-left: 2%;
+}
+.input-1 img{
+	margin-left: 1rem;
+	margin-top: 0.5rem;
+	border-right: solid 1px lightgrey;
+}
+.oginbar{
+	margin-top: 1rem;
+}
+.oginbar button{
+	width: 100%;
+	background: #5fc0cd;
+	line-height: 5rem;
+	font-size: 1.5rem;
+	color: #fff;
+	letter-spacing: 5rem;
+}
+.oginbar a{
+	float: right;
+	margin-top: 10px;
+	margin-right: 28.7px;
+	font-weight: 200;
+	font-size: 20px;
+	color: #5fc0cd;
+}
